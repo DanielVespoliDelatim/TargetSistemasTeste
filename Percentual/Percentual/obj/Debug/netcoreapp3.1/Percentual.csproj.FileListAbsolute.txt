@@ -1,0 +1,14 @@
+D:\66\gupy\Percentual\Percentual\bin\Debug\netcoreapp3.1\Percentual.exe
+D:\66\gupy\Percentual\Percentual\bin\Debug\netcoreapp3.1\Percentual.deps.json
+D:\66\gupy\Percentual\Percentual\bin\Debug\netcoreapp3.1\Percentual.runtimeconfig.json
+D:\66\gupy\Percentual\Percentual\bin\Debug\netcoreapp3.1\Percentual.runtimeconfig.dev.json
+D:\66\gupy\Percentual\Percentual\bin\Debug\netcoreapp3.1\Percentual.dll
+D:\66\gupy\Percentual\Percentual\bin\Debug\netcoreapp3.1\Percentual.pdb
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.csproj.AssemblyReference.cache
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.GeneratedMSBuildEditorConfig.editorconfig
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.AssemblyInfoInputs.cache
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.AssemblyInfo.cs
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.csproj.CoreCompileInputs.cache
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.dll
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.pdb
+D:\66\gupy\Percentual\Percentual\obj\Debug\netcoreapp3.1\Percentual.genruntimeconfig.cache

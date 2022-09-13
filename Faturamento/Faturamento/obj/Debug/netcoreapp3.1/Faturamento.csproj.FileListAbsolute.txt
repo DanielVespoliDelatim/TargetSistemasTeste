@@ -1,0 +1,16 @@
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.exe
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.deps.json
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.runtimeconfig.json
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.runtimeconfig.dev.json
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.dll
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.pdb
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.AssemblyReference.cache
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.AssemblyInfoInputs.cache
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.AssemblyInfo.cs
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.CoreCompileInputs.cache
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.dll
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.pdb
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.genruntimeconfig.cache
+D:\66\gupy\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\66\gupy\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.CopyComplete
